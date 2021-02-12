@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "./static/css/main.b94cff74.chunk.css",
+    "main.js": "./static/js/main.0bc60446.chunk.js",
+    "main.js.map": "./static/js/main.0bc60446.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.28f975d6.js",
+    "runtime-main.js.map": "./static/js/runtime-main.28f975d6.js.map",
+    "static/css/2.ba3a0938.chunk.css": "./static/css/2.ba3a0938.chunk.css",
+    "static/js/2.7ad9fd42.chunk.js": "./static/js/2.7ad9fd42.chunk.js",
+    "static/js/2.7ad9fd42.chunk.js.map": "./static/js/2.7ad9fd42.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.7bb24a6a3731c4f3d5321979b2778a09.js": "./precache-manifest.7bb24a6a3731c4f3d5321979b2778a09.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/2.ba3a0938.chunk.css.map": "./static/css/2.ba3a0938.chunk.css.map",
+    "static/css/main.b94cff74.chunk.css.map": "./static/css/main.b94cff74.chunk.css.map",
+    "static/js/2.7ad9fd42.chunk.js.LICENSE.txt": "./static/js/2.7ad9fd42.chunk.js.LICENSE.txt",
+    "static/media/About.css": "./static/media/about_page.2c97aa73.jpg",
+    "static/media/mdb.css": "./static/media/arrow_right.8ef6a08c.svg",
+    "static/media/Book.css": "./static/media/book.b0fc2266.jpg",
+    "static/media/botswana.jpg": "./static/media/botswana.6b986663.jpg",
+    "static/media/Contacts.css": "./static/media/contact_page.38933ae9.jpg",
+    "static/media/all.min.css": "./static/media/fa-solid-900.cdfec5cf.woff",
+    "static/media/kenya.jpg": "./static/media/kenya.62c53c71.jpg",
+    "static/media/home.css": "./static/media/rhino_mainpage.eaca18e4.jpg",
+    "static/media/rwanda.jpg": "./static/media/rwanda.31eaad9f.jpg",
+    "static/media/tanzania.jpg": "./static/media/tanzania.8f0c085e.jpg",
+    "static/media/uganda.jpg": "./static/media/uganda.e9253aa6.jpg",
+    "static/media/zimbabwe.jpg": "./static/media/zimbabwe.d0227f38.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.28f975d6.js",
+    "static/css/2.ba3a0938.chunk.css",
+    "static/js/2.7ad9fd42.chunk.js",
+    "static/css/main.b94cff74.chunk.css",
+    "static/js/main.0bc60446.chunk.js"
+  ]
+}
